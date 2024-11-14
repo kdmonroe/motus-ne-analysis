@@ -22,7 +22,7 @@ The current version features enhanced visualizations and updated data processing
 ## View the Analysis
 
 View the interactive maps and full analysis on nbviewer:
-[View Notebook](https://nbviewer.org/github/[your-username]/motus-ne-analysis/blob/main/notebooks/motus-wrangling-analysis-2024.ipynb)
+[View Notebook](https://nbviewer.org/github/kdmonroe/motus-ne-analysis/blob/master/notebooks/motus-wrangling-analysis-2024.ipynb)
 
 ## Data Source
 
