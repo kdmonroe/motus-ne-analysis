@@ -5,7 +5,13 @@
 # Data directory
 data/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Directories ending with "_files"
+*_files/
